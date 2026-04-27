@@ -1,0 +1,8 @@
+Activity 1
+Q1
+Efficient file storage and organisation are important because they make it easier for researchers to find, understand, and reuse project materials over time. Good organisation also reduces the risk of data loss, version confusion, duplicated files, and accidental use of the wrong document, while improving collaboration and accountability across the research team.
+Q2
+I would store the project materials in clearly separated folders, such as literature, quantitative data, qualitative data, drafts, and media, with subfolders for raw data, cleaned data, scripts, outputs, and documentation. Files containing personal or sensitive information, such as consent forms, interview transcripts, identifiable survey responses, and photos, would require stricter access controls, while analysis scripts, de-identified outputs, and general project documents could be shared more broadly within the team.
+Activity 2
+Q1
+A good naming convention is important because it makes files easier to identify, sort, search, and reuse over time, especially in large collaborative projects. Clear and consistent names reduce confusion, prevent version mix-ups, and support long-term accessibility by making the purpose and content of files understandable to other researchers.
