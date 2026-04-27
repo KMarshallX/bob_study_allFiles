@@ -1,0 +1,9 @@
+Activity 1
+1. Storage and accessiblity
+Efficient file storage and organization are important because they reduce the risk of data loss, duplication, and confusion. In this research project, the team will handle many types of materials, such as literature review files, survey data, interview transcripts, scripts, and reports. A clear structure allows team members to find files quickly, work together more effectively, and review the research process later.
+2. File storage methods
+Literature review documents, draft reports, and non-sensitive analysis scripts can be stored in a GitHub repository for version control and collaboration. Survey data, interview transcripts, consent forms, and files containing personal information should be stored in a secure location with access control, such as UQ RDM or encrypted cloud storage. Interview records, consent forms, and raw survey data require special access control because they may include confidential or identifiable information.
+
+Activity 2
+Q1 Why is it important to have a good naming convention?
+A good naming convention helps team members quickly understand the content, version, and purpose of each file. File names should be clear, consistent, and include useful information such as date, data type, version number, and file status. Harvard’s data management guidance also states that consistent file naming helps researchers organise, identify, and navigate files more easily.
