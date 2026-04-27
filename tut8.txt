@@ -1,0 +1,10 @@
+ 1. Storage and Accessibility
+
+It is important to store and organise research files efficiently because the project contains many types of data, including literature, survey data, interview transcripts, scripts, reports, and media files. A clear structure reduces the risk of losing files, using outdated versions, or sharing sensitive data incorrectly, especially when several researchers are working on the same project.
+
+ 2. File Storage Methods
+
+I would organise the materials by data type and research stage. For example, literature review files would be stored in a `literature_review` folder, raw survey and interview data in a restricted `data/raw` folder, analysis scripts and outputs in an `analysis` folder, and draft or final reports in a `reports` folder. Consent forms, identifiable survey data, interview transcripts, and photos should have special access controls because they may contain private or ethically sensitive information.
+
+A2
+This structure separates raw data, processed data, research instruments, analysis files, visualisations, and reports. It also makes it easier to apply different access controls to restricted data while keeping non-sensitive project documents available to collaborators.
