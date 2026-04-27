@@ -1,0 +1,10 @@
+Activity 1
+
+1. Storage and Accessibility:
+It is important to store and organise files efficiently so research materials can be found quickly, shared easily, and checked accurately. Good organisation also reduces the risk of losing files, duplicating work, or using the wrong version during analysis and reporting.
+
+2. File Storage Methods:
+Draft documents can be stored in a drafts folder, literature review materials in a lit_review folder, qualitative interview files in quali_aly, quantitative survey data and scripts in quanti_aly, and supporting items in misc. Sensitive files such as consent forms, participant information sheets, interview transcripts, and any identifiable survey data should have special access controls because they may contain personal or confidential information.
+
+3. Why is it important to have a good naming convention?
+A good naming convention makes files easier to identify, sort, search, and understand without opening each one. Based on the Harvard guidance, names should be consistent, descriptive, and structured using useful metadata such as date, project name, and version number, while avoiding spaces and special characters so files remain readable across systems.
