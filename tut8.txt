@@ -1,13 +1,13 @@
 Activity 1
-1. Storage and Accessibility
+Q1. Storage and Accessibility
 
 Efficient file storage is important because research data needs to be easy to find, access, and manage. A clear folder structure helps team members avoid confusion and use the correct files. It also supports data quality, backup, and future reuse.
 
-2. File Storage Methods
+Q2. File Storage Methods
 
 I would store files in separate folders, such as literature review, quantitative data, qualitative data, reports, and additional materials. Non-sensitive files and scripts can be stored in GitHub for version control. Sensitive data, such as consent forms, raw survey data, and interview transcripts, should have restricted access because they may include personal information.
 
 Activity 2
-1. Naming Convention
+Q1. Naming Convention
 
 A good naming convention helps researchers quickly understand what each file is about. It also makes files easier to organise, search, and version. For example, I can use YYYYMMDD_ProjectName_DataType_Description_v1 to show the date, project, file type, and version.
