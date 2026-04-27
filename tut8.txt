@@ -1,0 +1,10 @@
+Activity 1
+Q1：Storage and Accessibility
+Efficient storage and organisation of files are important because they allow researchers to quickly locate relevant data and avoid confusion or duplication. A well-structured system also improves collaboration, as all team members can easily access and understand the data. Additionally, it reduces the risk of data loss and ensures consistency across the project.
+Q2：File Storage Methods + Access Control
+Different types of data should be stored in clearly structured folders based on their purpose, such as separating literature, quantitative data, qualitative data, and reports. Quantitative data can include raw and cleaned datasets, while qualitative data may include transcripts and analysis files. Sensitive materials, such as interview transcripts, consent forms, and raw survey data, should have restricted access to protect participant privacy and ensure ethical compliance.
+Activity 2
+Q1. What did you learn from using GitHub for version control and collaboration?
+Through this activity, I learned that GitHub is not just a file storage platform, but a version control system that allows tracking changes over time. Each commit records what was changed and when, which makes it easier to manage different versions of the project.
+I also learned how GitHub supports collaboration. By using branches and pull requests, multiple team members can work on the same project without overwriting each other’s work. This process helps organise teamwork and reduces conflicts.
+In addition, writing meaningful commit messages is important because it clearly explains the purpose of each change. This improves communication within the team and makes it easier to review and understand the project history.
