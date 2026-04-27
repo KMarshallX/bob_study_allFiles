@@ -1,0 +1,9 @@
+Activity 1 
+Q1. Storage and Accessibility
+I think it is important to organise files properly because we will have a lot of data in this project. If everything is messy, it will be hard for me and my team to find the right files. Good organisation also helps us work faster and avoid using the wrong version.
+Q2. File Storage Methods
+I would store files in different folders, like literature review, survey data, interview data, and reports. For coding files, I would use GitHub so we can track changes. For sensitive data like interview transcripts and consent forms, I would limit access and use password protection to keep the data safe.
+
+
+Activity 2
+Q1: I think a good naming convention is important because it helps me quickly understand what each file is without opening it. It also makes it easier for my team to find the correct files and avoid confusion. Clear names reduce mistakes and help keep the project organised.
