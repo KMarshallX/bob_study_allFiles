@@ -1,0 +1,6 @@
+activity 1
+1. It is important to store and organise files properly so that team members can easily find and access the information they need. Good organisation also helps prevent data loss and confusion.
+2. Different types of data should be stored in separate folders, such as documents, survey data, and interview files. Sensitive data, like interview transcripts and consent forms, should have restricted access to protect privacy.
+
+activity 2
+Q1 Good naming conventions make it easier to identify and locate files quickly. They also improve organisation and reduce confusion when working in a team.
