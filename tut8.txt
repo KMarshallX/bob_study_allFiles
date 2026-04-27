@@ -1,0 +1,5 @@
+Activity 1：
+Q1: Efficient file storage and organisation are important because they help us find files quickly and avoid confusion. When files are well organised, team members can easily access and share information. It also reduces the risk of losing important data.
+Q2: Different types of data should be stored in separate folders, such as literature review, analysis data, and reports. Sensitive data like interview transcripts and consent forms should have restricted access to protect privacy. Other general files can be shared with all team members.
+Activity 2：
+Q1：A good naming convention is important because it helps people understand the file content quickly. It also makes it easier to find and organise files, especially in a large project. Clear and consistent names can reduce confusion and improve teamwork.
