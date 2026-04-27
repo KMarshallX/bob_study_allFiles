@@ -1,0 +1,13 @@
+Activity 1
+
+Question 1.
+Data storage and accessibility effectively are critical for ensuring data integrity, team collaboration and version control. It is important to establish a systematic methodology on data naming conventions, folder structure and baselining.
+
+Question 2.
+I am using GitHub to manage these data. Classifying all the data into 5 types, which are 'additional materials', 'Drafts reports', 'literature review', 'qualitative analysis' and 'quantitative analysis'.
+Amoung all the types, 'Qualitative analysis' data requires special access control, ensuring only authorised user can access to restrict the data lacking risk. This control is to protect privacy of the interviewer.
+
+
+Activity 2
+Q1. A good naming convention is benefitting to research to allocate the correct data when analysis them.
+Without good naming system, it can lead to losing files,losing the context and logic of research over time.
