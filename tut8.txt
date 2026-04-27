@@ -1,0 +1,20 @@
+= Activity 1
+
+== 1. Storage and Accessibility
+It is important to store and organise files efficiently because it makes the research easier to find, update, and share
+across the team. A clear folder structure also helps avoid duplicate files and keeps everyone working with the latest
+version. In a project like this, that saves time when checking sources, reviewing data, or writing up results.
+
+== 2. File Storage Methods
+I would keep literature reviews, drafts, and final reports in separate folders, and store survey data, scripts, and
+spreadsheets in a clear data and analysis folder. Interview transcripts, consent forms, and any files with participant
+details should have restricted access because they may contain private information. The rest of the project files can be
+shared more widely, but the raw data should still be backed up and kept properly organised.
+
+
+= Activity 2
+
+== 1. Naming Conventions
+It is important to have a good naming convention because it makes files easier to find, understand, and sort, especially
+when there are lots of documents in a project. Clear names also reduce confusion between team members and help prevent
+people from using the wrong version of a file.
