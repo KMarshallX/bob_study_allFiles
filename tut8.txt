@@ -1,0 +1,6 @@
+Activity 1
+Q1 - Efficient storage and organization ensure that team members can quickly and accurately locate the required files when dealing with large amounts of research data, thereby improving collaboration efficiency. Furthermore, a clear directory structure helps maintain data integrity and prevents research delays caused by file versioning issues or accidental deletion.
+Q2 - I will create five folders based on data type: Literature Review, Quantitative Analysis, Qualitative Analysis, Draft Reports, and Other Materials. Among these, the Interview Transcripts and Participant Consent Forms in the Qualitative Analysis section require special access control because these files contain sensitive personal information, and unauthorized access must be restricted to comply with ethical requirements.
+Activity 2
+Q1 - Good naming conventions allow team members to understand a file's content, version, and creation time without opening it, significantly reducing communication costs. Furthermore, consistent naming logic helps reduce standardization costs among different programmers and workers; for example, users using both camelCase and snake_case will have very similar naming conventions.
+
