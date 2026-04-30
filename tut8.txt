@@ -1,0 +1,7 @@
+Activity 1:
+1. Efficient file storage and organisation are important because the project contains many different types of data and documents. A clear structure helps team members find the correct files, avoid version confusion, reduce data loss, and support collaboration. It also makes the research process more transparent and easier to review or reproduce.
+
+2. I would organise the project data into separate folders, such as literature review, quantitative data, qualitative data, analysis scripts, reports, and additional materials. General documents such as literature notes, draft reports, and Python scripts can be stored in a shared project folder, while sensitive data such as raw survey responses, interview transcripts, consent forms, and photos should have restricted access. These files may contain personal or identifiable information, so they should be stored securely, anonymised where possible, and only accessed by authorised team members.
+
+Activity 2:
+1. A good naming convention is important because it helps team members quickly understand what a file contains, which version it is, and when it was created or updated. It reduces confusion, prevents using the wrong file, and makes the project easier to search, manage, and collaborate on. This is especially useful in research projects where there may be many datasets, scripts, reports, and drafts.
