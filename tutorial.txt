@@ -1,0 +1,5 @@
+Activity 1 Q1 - It is important to store and organise the files efficiently so that each file can be quickly found and accessed. For working in a team, you also need to consider file sharing and version control to manage conflicting edits. 
+
+Activity 1 Q2 - Files are categorised into the 5 corresponding categories, and version control is achieved through usage of github, which allows multiple users to work on the project and sync their changes.
+
+Activity 2 Q1 - It is important to have a good naming convention so that the files are sorted efficiently, and their purpose is clear from the file name. The file name can also be used to differentiate major versions, such as a draft and the final report.
