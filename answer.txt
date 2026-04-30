@@ -1,0 +1,16 @@
+Activity 1 
+Q1. Storage and Accessibility: Explain why it is important to store and organise your files 
+efficiently.
+
+It is important to store and organise files efficiently because a research project usually has many different types of files, such as articles, survey data, interview transcripts, scripts, and reports. A clear folder structure helps team members find the right files quickly, avoid duplicated work, and reduce the chance of losing important data.
+
+
+Q2. File Storage Methods: Explain your methods for storing the different types of data in 
+the scenario. Specify which data types may require special access controls.
+
+I would store the files in separate folders based on their type, such as Literature Review, Quantitative Analysis, Qualitative Analysis, Drafts and Reports, and Additional Materials. Sensitive data such as interview transcripts, consent forms, raw survey responses, and participant information should have special access controls because they may contain private or identifiable information.
+
+Activity 2
+Q1. Why is it important to have a good naming convention?
+
+A good naming convention is important because it helps team members quickly understand what a file is about without opening it. It also makes files easier to search, sort, and version control, especially when a project has many similar documents or datasets.
