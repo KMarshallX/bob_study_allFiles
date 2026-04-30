@@ -1,0 +1,6 @@
+Activity 1 Q1:
+It allows team members to quickly find the required materials, avoids wasting time looking through them one by one and losing files, and can improve the efficiency of personal and pattern work. A good organizational structure also facilitates subsequent data sharing, maintenance, modification and long-term archiving.
+Activity 1 Q2:
+I classified and stored them based on functional attributes, separated the original survey data and analysis scripts to ensure data security, and placed interviews, formal research reports, project instructions, and authorization letters in separate folders. This will facilitate subsequent submission of modifications and additions
+Activity 2 Q1:
+The name of the folder is actually a summary of the file attributes. A clear name can locate the file location faster, and also makes it easier to add new files and find the correct location for the new file. It can further facilitate subsequent maintenance and modification, improve the readability and maintainability of the project.
