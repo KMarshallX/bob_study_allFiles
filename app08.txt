@@ -1,0 +1,8 @@
+Activity 1 
+1. Explain why it is important to store and organise your files efficiently.
+A: Efficient file storage and organisation are important because they make it easier to quickly locate and retrieve information when needed. Well-structured files also reduce the risk of data loss, duplication, or confusion. Additionally, organised storage improves collaboration by allowing team members to access shared files smoothly.
+
+2. Explain your methods for storing the different types of data in the scenario. Specify which data types may require special access controls.
+
+Activity 2 
+1. Why is it important to have a good naming convention?
