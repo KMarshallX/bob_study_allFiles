@@ -1,0 +1,20 @@
+Activity 1 Q1 - Explain why it is important to store and organise your files efficiently. (2-3 sentences)
+
+Organising files efficiently makes it much easier to find said files, especially compared to dumping hundreds of files in a single directory.
+
+Activity 1 Q2 - Explain your methods for storing the different types of data in the scenario. Specify which data types may require special access controls. (2-3 sentences)
+
+I just organised the files into the categories defined by the handout, for example:
+- 'Literature Review' should contain journal and conference articles, books, newspaper, articles.
+- 'Quantitative Analysis' contains survey data, survey questions, analysis files, survey analysis reports.
+- 'Qualitative Analysis' contains several interview transcripts, interview protocols, consent forms, analysis reports, and data visualisations.
+- 'Drafts and Reports' contains draft research proposals, conference papers, and final reports.
+- 'Additional Materials' contains Information sheets, photos, and other media files.
+
+Some assumptions had to be made, e.g. 'Photo_Interview_Consent_Form.jpg' is both a photo and a consent form, but I decided to keep all photos in the 'Additional Materials' directory.
+
+Special access controls may need to be used for some files in 'Quantitative Analysis' as it can contain confidential personal information in the survey data.
+
+Activity 2 Q1 - Why is it important to have a good naming convention? (2-3 sentences)
+
+A good naming convention allows for much easier identification of files. For example, it should include a relevant name for fairly obvious reasons, and a version number and/or date as you can use it to identify older copies of a file.
