@@ -1,0 +1,10 @@
+Activity 1 
+1. Explain why it is important to store and organise your files efficiently.
+Efficient file storage and organization are critical because they ensure that all research team members can quickly locate and retrieve specific documents, thereby reducing time wasted on searching and preventing the use of outdated file versions. Furthermore, a logical structure maintains data integrity throughout the project’s lifecycle, making it easier to share findings and ensure the reproducibility of the research.
+
+2. Explain your methods for storing the different types of data in the scenario. Specify which data types may require special access controls.
+I would utilize a version-control platform like GitHub to manage quantitative scripts, CSV files, and collaborative report drafts, while using secure, encrypted cloud storage for media files and sensitive documents. Special access controls are strictly required for qualitative data, such as interview transcripts and signed consent forms, to protect participant anonymity and comply with ethical research standards.
+
+Activity 2 
+1. Why is it important to have a good naming convention?
+Establishing a consistent file naming convention is crucial because it allows researchers to immediately identify the content, status, and creation date of a file without needing to open it. Furthermore, standardized naming prevents version confusion during collaborative teamwork and ensures that automated analysis scripts can reliably locate and process the necessary datasets over the project's lifespan.
