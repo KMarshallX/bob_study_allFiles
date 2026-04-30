@@ -1,0 +1,9 @@
+Activity 1 Q1:  Explain why is it important to store and organise your files efficiency?
+Activity 1 Q2:  Explain your methods for storing the different types of data in the scenario?
+Activity 2 Q1:  Why is it important to have a good naming convention?
+
+Answer for Activity 1 Q1: It is important to store and organize research files efficiently because the team will produce many different types of data, such as literature, survey data, interview transcripts, scripts, and reports. A clear folder structure makes files easier to find, reduces confusion between different versions, and helps team members work together more effectively.
+
+Answer for Activity1 Q2: The research materials can be organized into different folders according to their purpose and data type, such as literature review, survey analysis, interview data, project drafts, final reports, and media files. Files that include private or sensitive information, such as raw survey responses, interview transcripts, consent forms, and participant details, should be protected with restricted access to maintain confidentiality.
+
+Answer for Activity2 Q1: A clear file naming convention is important because it makes files easier to find, understand, and manage. It also helps team members work more efficiently by reducing confusion and preventing duplicate or misplaced files. Setting naming rules early can save time later when the project contains many documents.
