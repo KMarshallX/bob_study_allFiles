@@ -6,4 +6,4 @@ Git clone downloads a copy of a remote repository to your local machine, allowin
 
 Git fork creates your own independent copy of someone else's repository under your own GitHub account, giving you full control to make changes without affecting the original project.
 
-The key difference is that fork is a GitHub-level operation that creates a server-side copy under your account (typically used to contribute to projects you don't own), while clone is a Git operation that simply downloads any repository to your local machine, you usually clone your own fork to then work on it locally.
+The key difference is that fork is a GitHub-level operation that creates a server-side copy under your account (typically used to contribute to projects you don't own), while clone is a Git operation that simply downloads any repository to your local machine, you usually clone your own fork to then work on it locally
