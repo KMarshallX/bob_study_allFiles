@@ -1,0 +1,6 @@
+activity 1 Q1 - explain why is it important to store and organise your files efficiently (2-3 sentences)
+  Efficient file storage and organisation help team members find files quickly and avoid confusion. It also reduces the risk of losing, duplicating, or using the wrong version of research data.
+activity 1 Q2 - explain your methods for storing the different types of data in the scenario (2-3 sentences)
+  I would store files in separate folders, such as Literature_Review, Quantitative_Analysis, Qualitative_Analysis, Drafts_and_Reports, and Additional_Materials. Interview transcripts, consent forms, and raw survey data need special access controls because they may contain confidential information.
+Activity 2 Q1 - why is it important to have a gppd naming convenient (2-3 sentences)
+ A good naming convention helps people understand what a file is without opening it. It also makes collaboration easier by avoiding unclear names like “final2” or “new file”.
