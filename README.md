@@ -18,3 +18,5 @@ Different between git clone and GitHub fork.
 
 A: The main difference is that git clone copies a repository to your local machine, while a fork creates a copy on your GitHub account. Cloning is mainly used for local development, whereas forking is used when you want to modify a project independently and possibly contribute back later.
 
+
+
