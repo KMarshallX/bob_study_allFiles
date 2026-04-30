@@ -1,0 +1,11 @@
+Activity 1 Q1 - Explain why is it important to store and organize your files efficiently(2-3 sentences)
+
+It is important to store and organize files efficiently because the research team has many different types of materials, such as survey data, interview transcripts, reports, and media files. A clear folder structure makes it easier for team members to find the correct files, avoid confusion, and reduce the risk of losing important research data.
+
+Activity 1 Q2 - Explain your methods for storing the different types of data in the scenario(2-3 sentences)
+
+I would store the files in separate folders based on their type, such as Literature Review, Quantitative Analysis, Qualitative Analysis, Drafts and Reports, and Additional Materials. Sensitive data, such as interview transcripts, consent forms, survey responses, and personal information, should have special access controls so that only authorized team members can view or edit them.
+
+Activity 2 Q1 - Why is it important to have a good naming convention?(2 - 3 sentences)
+
+A good naming convention is important because it helps team members quickly understand what a file is about without opening it. It also makes files easier to search, sort, and track, especially when there are many versions of reports, datasets, and scripts in a shared GitHub repository. 
