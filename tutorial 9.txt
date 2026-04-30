@@ -1,0 +1,6 @@
+Activity 1 Q1 - Explain why is it important to store and  organise your files efficiently(2-3 sentences)
+                      Because that is basic ways of organising your files and for the further research it will makes you more easier to find the files you want.
+Activity 1 Q2 - Explain your methods for storing the different types of data in the scenario. Specify  which data types may require special access controls (2-3 sentences)
+                      I will first create 5 different folders for storing different types of data with clear name. Data like involved participants information should not be given access to public. Such as Participants Response, or some demographic data.
+Activity 2 Q1 - Why is it important to have a good naming convention?( 2-3 sentences)
+                     Because it keep files organised and easy to find. With a good naming convention means you can locate and identify the exact files you want.
