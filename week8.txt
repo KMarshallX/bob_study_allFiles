@@ -1,0 +1,10 @@
+Activity1
+Q1
+Efficient storage and organisation of files ensure that research data can be easily retrieved, reduce the risk of data loss, and improve collaboration. When dealing with large and diverse datasets, proper organisation enhances consistency and traceability.
+Q2
+Different types of data should be stored using appropriate methods. Literature and reports can be stored on cloud platforms (e.g., Google Drive), code and analysis files managed via GitHub, and raw data stored on secure servers or encrypted storage. Sensitive data (e.g., interviews and consent forms) should have restricted access controls to ensure privacy and security.
+
+Acticity 2
+Q1
+Having a good naming convention makes files easier to find and understand, especially when working with others. It helps avoid confusion and keeps everything organised, which saves time during collaboration. Clear names also make it easier to track changes and manage versions.
+
